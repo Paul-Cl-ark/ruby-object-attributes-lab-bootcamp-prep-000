@@ -8,6 +8,7 @@ class Person
     @name
   end
   
-  def n
+  def name=(new_name)
+    
   
 end 
