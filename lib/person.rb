@@ -26,4 +26,4 @@ class Person
   
 end 
 
-beyonce = Person.new_job
+beyonce = Person.new
